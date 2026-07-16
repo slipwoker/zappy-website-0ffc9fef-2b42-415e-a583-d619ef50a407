@@ -1,0 +1,48 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-07-16T20:14:25.684Z
+# NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
+# This file is kept for reference only
+
+/login/device-based/regular/login  /login/device-based/regular/login.html  200!
+/recover/initiate  /recover/initiate.html  200!
+/photo  /photo.html  200!
+/alexaspasic/followers  /alexaspasic/followers.html  200!
+/alexaspasic/following  /alexaspasic/following.html  200!
+/alexaspasic/about  /alexaspasic/about.html  200!
+/alexaspasic/reels_tab  /alexaspasic/reels_tab.html  200!
+/alexaspasic/photos  /alexaspasic/photos.html  200!
+/Ni%C5%A1-105562006143768  /Niš-105562006143768/index.html  200!
+/privacy/policy  /privacy/policy.html  200!
+/policies  /policies.html  200!
+/business  /business.html  200!
+/help/568137493302217  /help/568137493302217.html  200!
+/policies/cookies  /policies/cookies.html  200!
+/stories/2633250793488129/UzpfSVNDOjE1MjM2MjY4OTYxNjEwNjQ=  /stories/2633250793488129/uzpfsvndoje1mjm2mjy4otyxnjewnjq.html  200!
+/Los-Angeles-California-114060546635806  /los-angeles-california-114060546635806.html  200!
+/reel/1568222361385390  /reel/1568222361385390.html  200!
+/cart  /cart.html  200!
+/checkout  /checkout.html  200!
+/login  /login.html  200!
+/account  /account.html  200!
+/order-success  /order-success.html  200!
+/return-policy  /return-policy.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+/thank-you  /thank-you.html  200!
+/courses  /courses/index.html  200!
+/courses/  /courses/index.html  200!
+/my-learning  /my-learning.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# Dynamic routes - serve dedicated HTML templates for dynamic paths
+/category/*  /category.html  200!
+/courses/*  /course-detail.html  200!
+/lesson/*  /lesson.html  200!
+/certificate/*  /certificate.html  200!
