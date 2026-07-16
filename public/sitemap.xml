@@ -1,199 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app</loc>
+    <loc>https://example.com</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/login/device-based/regular/login</loc>
+    <loc>https://example.com/login/device-based/regular/login</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/recover/initiate</loc>
+    <loc>https://example.com/recover/initiate</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/photo</loc>
+    <loc>https://example.com/photo</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/alexaspasic/followers</loc>
+    <loc>https://example.com/alexaspasic/followers</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/alexaspasic/following</loc>
+    <loc>https://example.com/alexaspasic/following</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/alexaspasic/about</loc>
+    <loc>https://example.com/alexaspasic/about</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/alexaspasic/reels_tab</loc>
+    <loc>https://example.com/alexaspasic/reels_tab</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/alexaspasic/photos</loc>
+    <loc>https://example.com/alexaspasic/photos</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/Niš-105562006143768</loc>
+    <loc>https://example.com/Niš-105562006143768</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/privacy/policy</loc>
+    <loc>https://example.com/privacy/policy</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/policies</loc>
+    <loc>https://example.com/policies</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/business</loc>
+    <loc>https://example.com/business</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/help/568137493302217</loc>
+    <loc>https://example.com/help/568137493302217</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/policies/cookies</loc>
+    <loc>https://example.com/policies/cookies</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/stories/2633250793488129/UzpfSVNDOjE1MjM2MjY4OTYxNjEwNjQ=</loc>
+    <loc>https://example.com/stories/2633250793488129/UzpfSVNDOjE1MjM2MjY4OTYxNjEwNjQ=</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/Los-Angeles-California-114060546635806</loc>
+    <loc>https://example.com/Los-Angeles-California-114060546635806</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/reel/1568222361385390</loc>
+    <loc>https://example.com/reel/1568222361385390</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/cart</loc>
+    <loc>https://example.com/cart</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/checkout</loc>
+    <loc>https://example.com/checkout</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/login</loc>
+    <loc>https://example.com/login</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/account</loc>
+    <loc>https://example.com/account</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/order-success</loc>
+    <loc>https://example.com/order-success</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/thank-you</loc>
+    <loc>https://example.com/thank-you</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/courses</loc>
+    <loc>https://example.com/courses</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/category/:slug</loc>
+    <loc>https://example.com/category/:slug</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/courses/:slug</loc>
+    <loc>https://example.com/courses/:slug</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/lesson/:lessonId</loc>
+    <loc>https://example.com/lesson/:lessonId</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/my-learning</loc>
+    <loc>https://example.com/my-learning</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/certificate/:code</loc>
+    <loc>https://example.com/certificate/:code</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/privacy</loc>
+    <loc>https://example.com/privacy</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/terms</loc>
+    <loc>https://example.com/terms</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://aleksa-spasic-0ffc9fef.zappy5.app/accessibility</loc>
+    <loc>https://example.com/accessibility</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
